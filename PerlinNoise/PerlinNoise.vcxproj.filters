@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PerlinNoise.cpp">
+    <ClCompile Include="LuminousDots.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
